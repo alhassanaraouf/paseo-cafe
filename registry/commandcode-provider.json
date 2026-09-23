@@ -1,9 +1,12 @@
 {
   "repo": "alhassanaraouf/paseo-commandcode-provider",
-  "categories": ["provider"],
+  "categories": [
+    "provider"
+  ],
   "caveats": [
     "Requires the commandcode CLI on PATH, logged in via commandcode login.",
     "Images and steering are rejected; valid effort levels differ per model."
   ],
-  "submittedBy": "alhassanaraouf"
+  "submittedBy": "alhassanaraouf",
+  "package": "paseo-commandcode-provider"
 }
