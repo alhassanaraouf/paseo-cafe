@@ -1,6 +1,6 @@
 {
   "repo": "alhassanaraouf/paseo-acp-manager",
-  "package": "paseo-acp-manager",
+  "package": "@alhassanaraouf/paseo-acp-manager",
   "categories": [
     "provider",
     "productivity"
