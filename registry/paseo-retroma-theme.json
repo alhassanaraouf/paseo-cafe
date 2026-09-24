@@ -2,8 +2,6 @@
   "repo": "alhassanaraouf/paseo-themes",
   "path": "packages/paseo-retroma-theme",
   "package": "@alhassanaraouf/paseo-retroma-theme",
-  "categories": [
-    "theme"
-  ],
+  "categories": ["theme"],
   "submittedBy": "alhassanaraouf"
 }

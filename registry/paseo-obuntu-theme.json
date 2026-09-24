@@ -2,8 +2,6 @@
   "repo": "alhassanaraouf/paseo-themes",
   "path": "packages/paseo-obuntu-theme",
   "package": "@alhassanaraouf/paseo-obuntu-theme",
-  "categories": [
-    "theme"
-  ],
+  "categories": ["theme"],
   "submittedBy": "alhassanaraouf"
 }

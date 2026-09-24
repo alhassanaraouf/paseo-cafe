@@ -2,8 +2,6 @@
   "repo": "alhassanaraouf/paseo-themes",
   "path": "packages/paseo-obsidian-nord-theme",
   "package": "@alhassanaraouf/paseo-obsidian-nord-theme",
-  "categories": [
-    "theme"
-  ],
+  "categories": ["theme"],
   "submittedBy": "alhassanaraouf"
 }

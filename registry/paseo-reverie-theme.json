@@ -2,8 +2,6 @@
   "repo": "alhassanaraouf/paseo-themes",
   "path": "packages/paseo-reverie-theme",
   "package": "@alhassanaraouf/paseo-reverie-theme",
-  "categories": [
-    "theme"
-  ],
+  "categories": ["theme"],
   "submittedBy": "alhassanaraouf"
 }

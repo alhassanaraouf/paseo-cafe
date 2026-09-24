@@ -2,8 +2,6 @@
   "repo": "alhassanaraouf/paseo-themes",
   "path": "packages/paseo-obsidianite-theme",
   "package": "@alhassanaraouf/paseo-obsidianite-theme",
-  "categories": [
-    "theme"
-  ],
+  "categories": ["theme"],
   "submittedBy": "alhassanaraouf"
 }
